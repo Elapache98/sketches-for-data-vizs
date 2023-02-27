@@ -1,0 +1,21 @@
+#sketchButtons {
+    background-color: rgb(255, 248, 226);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 12px;
+    border: solid;
+    border-width: .8px;
+    border-color: #e3a726;
+
+    cursor: pointer;
+}
+
+#sketchButtons:hover {
+    background-color: rgb(251, 246, 221);
+    color: rgb(255, 248, 226);
+    border-color: rgb(255, 248, 226);
+    border: solid;
+    border-width: 1px;
+    border-color: #8a610a;
+}

@@ -1,12 +1,15 @@
 #sketchButtons {
+    display: inline-block;
+    margin-bottom: px;
     background-color: rgb(255, 248, 226);
     color: rgb(255, 255, 255);
-    padding: 10px 20px;
-    border-radius: 5px;
+    padding: 8px 16px;
+    border-radius: 50px;
     font-size: 12px;
     border: solid;
     border-width: 1px;
     border-color: #e3a726;
+    width: 100%;
 
     cursor: pointer;
 }
@@ -16,10 +19,10 @@
     color: rgb(255, 248, 226);
     border-color: rgb(255, 248, 226);
     border: solid;
-    border-width: 2px;
-    border-color: #8a610a;
+    border-width: 1.4px;
+    border-color: #43245e;
 }
 
 #header {
-    color: rgb(121, 101, 35);
+    color: #43245e;
 }
